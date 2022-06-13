@@ -1,4 +1,7 @@
-## Hi there, I'm Supriya Barai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm 💬
+![Screenshot-1](https://github.com/blackcodding/VanillaJs-Mini-Projects/blob/main/Supriya%20Barai%20Banner.png)
+
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-barai-webdeveloper)
 ![](https://komarev.com/ghpvc/?username=blackcodding&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
