@@ -8,9 +8,9 @@
 
 ## I'm a Student and a Aspiring Web Developer ✔
 
-#### I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+#### I am 2022 Graduate <b>Student from University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning <b>Full-Stack Development, Data Structures, Advance Algorithms and Data Science.</b>
+🌱 I’m currently learning <b>Full-Stack Development and Advance Data Structures & Algorithms.</b>
 
 ⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, become a <b>Software Development Engineer</b>, Learn <b>Cloud Computing and Blockchain</b>.
 
