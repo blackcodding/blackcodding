@@ -3,7 +3,7 @@
 
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-barai-webdeveloper)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-barai/)
 ![](https://komarev.com/ghpvc/?username=blackcodding&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a Student and a Aspiring Web Developer ✔
